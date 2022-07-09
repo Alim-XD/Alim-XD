@@ -1,5 +1,5 @@
                 
-
+	/assets/images/welcome.png
 
 
 
